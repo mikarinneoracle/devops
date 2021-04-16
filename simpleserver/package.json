@@ -1,0 +1,16 @@
+{
+  "name": "simpleserver",
+  "version": "0.0.1",
+  "description": "simpleserver",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Mika Rinne, 2021",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.1"
+  },
+  "devDependencies": {}
+}
